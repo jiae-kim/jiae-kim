@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I was a swimmer 🐳🏊
 -->
-- 📫 How to reach me: https://img.shields.io/badge/Email-jiae9522@gmail.com-brightgreen
+<h3>📫 How to reach me<h3>
+<p>https://img.shields.io/badge/Email-jiae9522@gmail.com-brightgreen<p>
