@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I was a swimmer 🐳🏊
 -->
 <h3>📫 How to reach me</h3>
-<p>https://img.shields.io/badge/Email-jiae9522@gmail.com-brightgreen</p>
+<p><img src="https://img.shields.io/badge/Email-jiae9522@gmail.com-brightgreen"/></p>
