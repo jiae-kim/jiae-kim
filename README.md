@@ -23,19 +23,16 @@
   <p>
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp; 
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-gray?style=flat&logo=IntelliJ IDEA&logoColor=white"/>&nbsp;&nbsp; 
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;
   </p>
-  <p>
-    <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepad%2b%2b&logoColor=black" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=black"/>&nbsp;&nbsp;
-  </p>
 
-  <br><br>
+  <br>
 
   <h2>📫 How to contact</h2>
   <a href="mailto:jiae9522@gmail.com"><img src="https://img.shields.io/badge/-jiae9522%40gmail.com-lightgreen?logo=Gmail&link=jiae9522@gmail.com"/></a>
@@ -59,8 +56,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I was a swimmer 🐳🏊
 
-<h2>🍀 I love</h2>
-<p>⚽⚾ Sports &nbsp;&nbsp; 📽️ Movie &nbsp;&nbsp; 🎧 Music &nbsp;&nbsp; 🗺️ Traveling</p>
+  <h2>🍀 I love</h2>
+  <p>⚽⚾ Sports &nbsp;&nbsp; 📽️ Movie &nbsp;&nbsp; 🎧 Music &nbsp;&nbsp; 🗺️ Traveling</p>
+
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepad%2b%2b&logoColor=black" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=black"/>&nbsp;&nbsp;
+  </p>
 
 
 -->
