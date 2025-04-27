@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=230&section=header&text=Hello%!%20I'm%20JiAe&animation=fadeIn&fontSize=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=230&section=header&text=Hello%!%20I'm%20jiae&animation=fadeIn&fontSize=50&fontAlignY=35" />
   
   <h2>💻 Tech Stack</h2>
-  <h5> Techs that I've used at least once </h5>
+  <!--<h5> Techs that I've used at least once </h5>-->
   
   <br>
   
@@ -21,17 +21,22 @@
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>&nbsp;&nbsp;
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>&nbsp;&nbsp; 
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp; 
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-gray?style=flat&logo=IntelliJ IDEA&logoColor=white"/>&nbsp;&nbsp; 
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>&nbsp;&nbsp; 
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;
   </p>
-
+  <!--
+  <p>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp; 
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-gray?style=flat&logo=IntelliJ IDEA&logoColor=white"/>&nbsp;&nbsp; 
+  </p>
+ -->
+ <!--
+  <p>
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>&nbsp;&nbsp; 
+  </p>
+-->
   <br>
 
   <h2>📫 How to contact</h2>
